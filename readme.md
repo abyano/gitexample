@@ -1,3 +1,3 @@
 # Read Me
 
-print("Hello!")
+Hello!
